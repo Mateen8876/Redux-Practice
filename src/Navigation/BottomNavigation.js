@@ -6,6 +6,11 @@ const BottomNavigation = () => {
     <View>
       <Text>BottomNavigation</Text>
       <Text>BottomNavigation</Text>
+      <Text>BottomNavigation</Text>
+      <Text>BottomNavigation</Text>
+      <Text>BottomNavigation</Text>
+      <Text>BottomNavigation</Text>
+
 
     </View>
   )
